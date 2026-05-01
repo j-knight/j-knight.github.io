@@ -49,9 +49,15 @@ Linux troubles
 April 30, 2026
 
 ⦁	I got a new raspberry pi 5 to install and use linux on
+
 ⦁	Setup started out fine until I went to install openvpn for another class. I had previously installed it on Pi OS on a pi 4 without any issue
+
 ⦁	There was an issue with downloading the packages saying there was no support for aarch
+
 ⦁	I knew that the OS for the pi 4 was the most recent version based on debian(13) trixie
+
 ⦁	Decided to check the version for the pi 5. It was an older version of debian(12) bookworm
+
 ⦁	Loaded in the SD card that I was using for the Pi 4 so that I could wipe and write the current version of the OS onto the PI 5
+
 ⦁	After set up, I went to install openVPN and had no issues.
